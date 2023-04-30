@@ -22,3 +22,5 @@ The program has a graphical interface, a mode of saving the calculation to a txt
 9. The calculation results will be displayed as the width and height of the section in loops and rows.
 10. To save the calculation in txt format, click "Save to txt" in the top menu.
 11. To get information "About the program" click on "About the program" in the top menu.
+
+The density_calculator.zip archive contains a compiled program for Windows, tested on Windows 11.
